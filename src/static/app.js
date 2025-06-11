@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
           participantsHtml = `<p><strong>Participants:</strong> None yet</p>`;
         }
-
+//pimba
         activityCard.innerHTML = `
           <h4>${name}</h4>
           <p>${details.description}</p>
